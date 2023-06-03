@@ -1,5 +1,3 @@
-# Neural-Turing-Machines
-
 # Neural Turing Machines
 
 Neural Turing Machines (NTMs) are a kind of recurrent neural network (RNN) that utilizes external memory resources. This repository contains a PyTorch implementation of NTMs.
