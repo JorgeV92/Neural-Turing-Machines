@@ -24,19 +24,13 @@ git clone https://github.com/<your-github-username>/Neural-Turing-Machines.git
 2. Install the necessary packages:
 pip install -r requirements.txt
 
-
 ## Usage
 
-Include examples of how to use your project. For instance, if you have any scripts or command-line instructions you'd like your users to use, put them here.
+This section is currently under development as we refine the interfaces and usage patterns for our project. Please note that as we are actively developing these, they may change.
 
 ## Project Status
 
 This project is currently under active development. Features may be added, removed, or changed, and there may be bugs. 
-
-
-## License
-
-Include a note about the license you're releasing your code under. If you're unsure which license to use, GitHub provides a [licensing guide](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) that can help.
 
 ## Contact
 
