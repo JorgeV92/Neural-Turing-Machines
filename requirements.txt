@@ -35,6 +35,8 @@ read_head.py: This file contains the implementation of the read head.
 
 write_head.py: This file contains the implementation of the write head.
 
+memory.py: This file contains the implementation of the write head.
+
 scripts/: Contains standalone scripts for training and evaluation.
 
 train.py: This script can be run to train your model.
